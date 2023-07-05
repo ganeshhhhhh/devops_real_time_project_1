@@ -40,7 +40,7 @@
 
     <br>
     <br>
-    <h2> App Status  : Up & Running !!! </h2>
+    <h2> App Status  : Up & Runningkhnkn !!! </h2>
     <h2> Image       : sunnydevops2022/IMAGE_NAME </h2>
     <br>
     <div class="color-box blue"></div>
